@@ -1,2 +1,1 @@
-# gateway-endpoint
-gateway-endpoint
+https://gateway.macdvpn.com/gateway.aspx
