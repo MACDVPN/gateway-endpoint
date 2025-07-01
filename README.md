@@ -1,1 +1,1 @@
-https://gateway.macdvpn.com/gateway.aspx,http://59.188.68.232:8080/gateway.aspx,http://18.163.214.207:8080/gateway.aspx|1753977600|e1eaa0dad9d686b62914695713557b28bfbf9882f965874d0f3365c3acc7aa98e489f1ef65b032eb99cca063eced09445fe68e797ca0443c2f4f3276e20a4306
+https://gateway.macdvpn.com/gateway.aspx,http://59.188.68.232:8080/gateway.aspx,http://43.198.246.194:8080/gateway.aspx|1753977600|503d6e83ed1bc36e48fe46b0f3dc920e80afa83eae8ef28927b7f3e55c87cff13972d57c7b450c33810dd8afd925ca07b2f598ded3df8e1b07e5b40d65526b0d
