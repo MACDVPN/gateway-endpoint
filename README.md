@@ -1,1 +1,1 @@
-https://gateway.macdvpn.com/gateway.aspx,http://59.188.68.232:8080/gateway.aspx,http://43.198.246.194:8080/gateway.aspx|1753977600|503d6e83ed1bc36e48fe46b0f3dc920e80afa83eae8ef28927b7f3e55c87cff13972d57c7b450c33810dd8afd925ca07b2f598ded3df8e1b07e5b40d65526b0d
+https://gateway.macdvpn.com/gateway.aspx,http://1325-hk-aws-rpc-gateway.loseyourip.com:8080/gateway.aspx,http://1359-hk-hkbn-rpc-gateway.loseyourip.com:8080/gateway.aspx|1753977600|18627f194102b8b41e73c830d783123a64f9cba3207ef2698f18d7a9cbdf691a5c4c62d0dbf33659192e1d537d563f96862c1769cce3e27a1bcad58f04b2d20c
